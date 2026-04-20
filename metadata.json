@@ -1,5 +1,5 @@
 {
-  "name": "Kumachi | Habit Tracker",
+  "name": "My Habit Tracker",
   "description": "A self-contained habit tracking web application storing data locally in the browser.",
   "requestFramePermissions": []
 }
